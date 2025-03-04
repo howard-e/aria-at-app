@@ -16,7 +16,7 @@ const Home = () => {
         <title>Home | ARIA-AT</title>
       </Helmet>
       <section className="hero-section">
-        <h1>Enabling Interoperability for Assistive Technology Users</h1>
+        <h1>Enabling Interoperability for Assistive Technology Userss</h1>
         <div className="hero-copy-and-video">
           <div className="hero-copy">
             <p className="w3c-authorization-message">
